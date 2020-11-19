@@ -128,6 +128,7 @@ resource "aws_instance" "hashicat" {
     Department = "devops"
     PO = "TEST"
     Billable = "true"
+    
   }
 }
 
